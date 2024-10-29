@@ -25,7 +25,7 @@ website:
     - text: "Bonus Points"
       href: bonus_points.qmd
     - icon: github
-      href: https://github.com/NASA-Openscapes
+      href: https://github.com/Joscelinrocha/dots_30th_bday
 
 format:
   html:
