@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Dots' 30th Bday"
-  site-url: https://www.dotsbday.com
+  site-url: https://dots30bday.netlify.app/
   favicon: images/logo_nbg.png 
   
   page-footer: 
