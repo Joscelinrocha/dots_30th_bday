@@ -1,0 +1,180 @@
+---
+title: "NASA Openscapes Champions Cohort"
+description: |
+  NASA Openscapes Champions is a mentorship and professional development opportunity for research teams using data from NASA Distributed Active Archive Centers (DAACs) and interested in open science and migrating their analytical workflows to the cloud. 
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+---
+
+**Feel Free to use this map as well!**
+
+## Holes
+
+### 1. Beantown Pub
+
+<center>
+
+![](images/beantown_sign-01.svg)
+
+</center>
+
+F**ounded:** 1999
+
+**Address:** 100 Tremont St, Boston, MA
+
+**Historical Landmarks & Sites Nearby:**
+
+-   **Granary Burying Ground:** Established in 1660, this cemetery is the final resting place of Revolutionary icons like Paul Revere, Samuel Adams, and John Hancock.
+
+-   **Boston Common:** Founded in 1634 as America’s oldest public park, it’s historically significant and served as a gathering place for Bostonians during the Revolution.
+
+**Funny Tidbit:** The “have a Sam with Sam” tradition is likely the only chance to enjoy a cold one while honoring a Founding Father. Given Samuel Adams’ background as a brewer, it’s a fitting toast to Boston’s revolutionary history.
+
+## 2. Sevens Ale House
+
+<center>
+
+![](images/sevens_1-01.png)
+
+</center>
+
+**Founded:** 1933
+
+**Address:** 77 Charles St, Boston, MA
+
+**Historical Landmarks & Sites Nearby:**
+
+-   **Massachusetts State House:** With its gilded dome, designed by Charles Bulfinch, this building is a symbol of Boston’s government.
+
+-   **Granary Burying Ground:** Resting place of Paul Revere, Samuel Adams, and victims of the Boston Massacre.
+
+**Funny Tidbit:** The Sevens’ name comes from its address, though some say it also nods to the seven original investors who pooled their resources to open it. Beacon Hill itself was once rumored to have “hobgoblins” lurking in the shadows, thanks to gas lamps and winding streets.
+
+## 3. 21st Amendment
+
+<center>
+
+![](https://images.fineartamerica.com/images/artworkimages/medium/1/21st-amendment-boston-allen-beatty.jpg){width="313"}
+
+</center>
+
+**Founded:** Early 2000s
+
+**Address:** 150 Bowdoin St, Boston, MA
+
+**Historical Landmarks & Sites Nearby:**
+
+-   **Bowdoin Street:** Named after Governor James Bowdoin, a Revolutionary leader and scientist.
+
+**Funny Tidbit:** A rumored haunt of young JFK, this bar celebrates Boston’s speakeasy culture with its name and its throwback atmosphere, making it a perfect nod to Prohibition’s end.
+
+## 4. Hub Pub
+
+<center>
+
+[![](https://thehubpub.com/images/logos/thehubpub_logo.png){width="237"}](https://thehubpub.com/)
+
+</center>
+
+F**ounded:** 1970s
+
+**Address:** 18 Province St, Boston, MA
+
+**Historical Landmarks & Sites Nearby:**
+
+-   **Province House Steps:** Historically significant as the pathway leading to the governor’s former mansion, the Province House.
+
+**Funny Tidbit:** Hub Pub’s location on Province Street, where colonial leaders once plotted, now has locals scheming over their next beer instead.
+
+## 5. Mr. Dooley’s
+
+**Founded:** 1991
+
+**Address:** 77 Broad St, Boston, MA
+
+**Historical Landmarks & Sites Nearby:**
+
+-   **Post Office Square:** Formerly a maritime trading hub, now a park in the heart of Boston’s financial district.
+
+**Funny Tidbit:** Named after a fictional, wise-cracking Irish bartender. Mr. Dooley’s character famously advised to “trust everybody, but cut the cards.”
+
+<center>
+
+[![](images/dooleys-01.png)](https://www.mrdooleys.com/)
+
+</center>
+
+## 6. Boston Sail Loft
+
+**Founded:** 1984
+
+**Address:** 80 Atlantic Ave, Boston, MA
+
+**Historical Landmarks & Sites Nearby:**
+
+-   **Long Wharf:** Boston’s longest commercial pier in colonial times, a critical point for trade and defense.
+
+**Funny Tidbit:** The Sail Loft sits near Long Wharf, once a major hub for smuggling in colonial Boston. Today, it smuggles clam chowder and pints instead.
+
+<center>
+
+[![](https://images.getbento.com/accounts/1ee43e9d6067348699acb9b248382e57/media/accounts/media/ugx8tiC5ReaTPSvdS6nK_newlogo.png){width="445"}](https://www.thebostonsailloft.com/)
+
+</center>
+
+## 7. Black Rose
+
+F**ounded:** 1976
+
+**Address:** 160 State St, Boston, MA
+
+**Historical Landmarks & Sites Nearby:**
+
+-   **Faneuil Hall:** Known as the “Cradle of Liberty,” Faneuil Hall hosted many revolutionary gatherings.
+
+**Funny Tidbit:** Known for late nights and questionable decisions, the Black Rose has a reputation for being haunted by patrons who missed last call.
+
+<center>
+
+[![](data:image/jpeg;base64,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)](https://www.blackroseboston.com/)
+
+</center>
+
+## 8. Durty Nelly’s
+
+**Founded:** 1990s
+
+**Address:** 108 Blackstone St, Boston, MA
+
+**Historical Landmarks & Sites Nearby:**
+
+-   **Blackstone Block:** Boston’s oldest commercial district, retaining the original colonial street layout
+
+**Funny Tidbit:** Durty Nelly’s motto, “what happens here, stays here,” matches the block’s historic intrigue, where merchants of old probably had secrets of their own.
+
+<center>
+
+[![](https://www.durtynellysboston.com/wp-content/uploads/2019/06/DNtransp1.png){width="273"}](https://www.durtynellysboston.com/)
+
+</center>
+
+## 9. The Dubliner
+
+**Founded:** 2020s
+
+**Address:** 2 Center Plaza, Boston, MA
+
+**Historical Landmarks & Sites Nearby:**
+
+-   **City Hall Plaza:** Known for its Brutalist architecture, City Hall is a distinct symbol in Boston’s civic landscape.
+
+**Funny Tidbit:** The Dubliner celebrates Boston’s Irish heritage, where exaggerated tales and “the craic” (Irish fun) are essential ingredients to a good time.
+
+<center>
+
+[![](https://static.wixstatic.com/media/53fe18_de4d17936ff64d909c15280feee3e635~mv2.png/v1/fill/w_228,h_275,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/THE%20DUBLINER%20LOGO%202.png)](https://www.thedublinerboston.com/)
+
+</center>

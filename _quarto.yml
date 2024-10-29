@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  title: "Dots' 30th Bday"
+  site-url: https://www.dotsbday.com
+  favicon: images/logo_nbg.png 
+  
+  page-footer: 
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/), with theme from [vetiver](https://github.com/rstudio/vetiver.rstudio.com)"
+    left: "&copy; CC-By Dots & Dr. J"
+ 
+  navbar:
+    logo: images/logo_nbg.png
+    href: https://www.dotsbday.com
+    right:
+    # - text: "Home"
+    #   href: index.html
+    - text: "Rules"                      
+      href: rules.qmd
+    - text: "Holes"
+      href: holes.qmd
+    - text: "Map"
+      href: map.qmd
+    - text: "Bonus Points"
+      href: bonus_points.qmd
+    - icon: github
+      href: https://github.com/NASA-Openscapes
+
+format:
+  html:
+    theme: [sandstone, custom.scss]
+    css: styles.css
+    toc: true
+    toc-title: Contents
+    toc-location: left
+
+
+
