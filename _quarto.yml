@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Dots' 30th Bday"
+  title: "Dots' Bday"
   site-url: https://www.dotsbday.com
   favicon: images/favicon.png
   image: images/White_background.png
@@ -14,7 +14,7 @@ website:
  
   navbar:
     logo: images/White_background.png
-    logo-alt: "Dots brand"
+    logo-alt: "Dots' brand"
     href: https://www.dotsbday.com
     right:
     # - text: "Home"
