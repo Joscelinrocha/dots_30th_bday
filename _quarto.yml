@@ -3,15 +3,15 @@ project:
 
 website:
   title: "Dots' 30th Bday"
-  site-url: https://dots30bday.netlify.app/
-  favicon: images/logo_nbg.png 
+  site-url: https://www.dotsbday.com
+  favicon: images/White_background.png
   
   page-footer: 
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/), with theme from [vetiver](https://github.com/rstudio/vetiver.rstudio.com)"
     left: "&copy; CC-By Dots & Dr. J"
  
   navbar:
-    logo: images/logo_nbg.png
+    logo: images/White_background.png
     href: https://www.dotsbday.com
     right:
     # - text: "Home"
