@@ -4,8 +4,8 @@ project:
 website:
   title: "Dots' Bday"
   site-url: https://www.dotsbday.com
-  favicon: images/favicon.png
   image: images/favicon.png
+  favicon: images/favicon.png
   open-graph: true
   
   page-footer: 
