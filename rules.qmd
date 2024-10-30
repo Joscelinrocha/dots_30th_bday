@@ -6,30 +6,36 @@ title: "Course Rules"
 
 2.  This is a Par 3 course.
 
-3.  Each hole has 2 diferent ways to score. You can choose whichever challenege you'd like to play every hole.
+3.  Each hole has 2 different ways to score. You can choose whichever challenge you'd like to play every hole. You can play wet or dry or a mix.
 
-4.  Penalties apply.
+4.  If your challenge requires an answer, write the answer on your scorecard. Otherwise, mark it with a checkmark.
 
-5.  Record your score for each hole based on your challenge completed.
+5.  Penalties apply.
 
-6.  A win in the Guiness game is an automatic hole in one at any bar.
+6.  Record your score for each hole based on your challenge completed.
 
-7.  Each bonus point will be 1/2 point reduction on your total score after the final hole.
+7.  A win in the Guinness game is an automatic hole-in-one at any bar.
 
-## Penalty Points:
+8.  Each bonus point will be a 1/2 point reduction on your total score after the final hole.
 
-+1 Stroke: Incomplete challenge or skipping part of the hole
+9.  You must complete each par to attempt a birdie and each birdie to attempt a Hole-in-one. You may choose not to complete any after you score and settle for par or birdie.
 
-+1 Stroke: Spilling a drink
+[**Upcoming Events:**]{.underline}
 
-+2 Strokes: Falling over
+**+1 Stroke:** Incomplete challenge or skipping part of the hole
 
-+3 Strokes: Skipping the hole entirely
+**+1 Stroke:** Spilling a drink
 
-[![](images/partiful-02.png)](https://partiful.com/e/BcU9GWCVZIkCg4CvfiPX)
+**+2 Strokes:** Falling over
+
+**+3 Strokes:** Skipping the hole entirely
+
+::: {layout-ncol="2"}
+[![](images/partiful-01.png){fig-align="left"}](https://partiful.com/e/BcU9GWCVZIkCg4CvfiPX)
+
+[![](images/efile-01.png)](https://www.dotsbday.com/)
 
 [Partiful Link/QR code](https://partiful.com/e/BcU9GWCVZIkCg4CvfiPX)
 
-[![](images/efile-02.png)](www.dotsbday.com)
-
-[www.dotsbday.com](www.dotsbday.com)
+[www.dotsbday.com](https://www.dotsbday.com/)
+:::

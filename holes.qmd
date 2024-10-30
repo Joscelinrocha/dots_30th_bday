@@ -7,11 +7,14 @@ output:
     toc_depth: 3
 ---
 
+
+
 ### 1. Beantown Pub
 
-<center>![](images/beantown_sign-01.svg)</center>
+:::: {layout="[ 70, 30 ]"}
+::: {#first-column}
 
-F**ounded:** 1999
+**Founded:** 1999
 
 **Address:** 100 Tremont St, Boston, MA
 
@@ -22,10 +25,16 @@ F**ounded:** 1999
 -   **Boston Common:** Founded in 1634 as America’s oldest public park, it’s historically significant and served as a gathering place for Bostonians during the Revolution.
 
 **Funny Tidbit:** The “have a Sam with Sam” tradition is likely the only chance to enjoy a cold one while honoring a Founding Father. Given Samuel Adams’ background as a brewer, it’s a fitting toast to Boston’s revolutionary history.
+:::
+::: {#second-column}
+<center>![](images/beantown_sign-01.svg)</center>
+:::
+::::
 
 ## 2. Sevens Ale House
 
-<center>![](images/sevens_1-01.png)</center>
+:::: {layout="[ 70, 30 ]"}
+::: {#first-column}
 
 **Founded:** 1933
 
@@ -38,6 +47,12 @@ F**ounded:** 1999
 -   **Granary Burying Ground:** Resting place of Paul Revere, Samuel Adams, and victims of the Boston Massacre.
 
 **Funny Tidbit:** The Sevens’ name comes from its address, though some say it also nods to the seven original investors who pooled their resources to open it. Beacon Hill itself was once rumored to have “hobgoblins” lurking in the shadows, thanks to gas lamps and winding streets.
+:::
+::: {#second-column}
+<center>![](images/sevens_1-01.png)</center>
+:::
+::::
+
 
 ## 3. 21st Amendment
 
