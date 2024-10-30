@@ -4,7 +4,7 @@ project:
 website:
   title: "Dots' 30th Bday"
   site-url: https://www.dotsbday.com
-  favicon: images/White_background.png
+  favicon: images/favicon.png
   image: images/White_background.png
   open-graph: true
   
