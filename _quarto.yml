@@ -5,6 +5,7 @@ website:
   title: "Dots' 30th Bday"
   site-url: https://www.dotsbday.com
   favicon: images/White_background.png
+  image: images/White_background.png
   
   page-footer: 
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/), with theme from [vetiver](https://github.com/rstudio/vetiver.rstudio.com)"
