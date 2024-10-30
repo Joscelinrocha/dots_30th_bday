@@ -6,6 +6,7 @@ website:
   site-url: https://www.dotsbday.com
   favicon: images/White_background.png
   image: images/White_background.png
+  open-graph: true
   
   page-footer: 
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/), with theme from [vetiver](https://github.com/rstudio/vetiver.rstudio.com)"
@@ -13,6 +14,7 @@ website:
  
   navbar:
     logo: images/White_background.png
+    logo-alt: "Dots brand"
     href: https://www.dotsbday.com
     right:
     # - text: "Home"

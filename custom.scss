@@ -49,6 +49,13 @@ $code-block-bg: $light-gray !default;
   color: $mid-gray;
 }
 
+/*-- navbar --*/
+
+.navbar {
+  padding-top: 0;
+  padding-bottom: 0;
+  font-size: 2em;
+}
 .navbar-logo {
   max-height: 55px;
 }
