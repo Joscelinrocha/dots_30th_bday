@@ -25,6 +25,8 @@ website:
       href: holes.qmd
     - text: "Map"
       href: map.qmd
+    - text: "Dots' Map"
+      href: dots_map.qmd
     - text: "Bonus Points"
       href: bonus_points.qmd
     - icon: github
