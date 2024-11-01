@@ -7,7 +7,7 @@ output:
     toc_depth: 3
 ---
 
-### 1. Beantown Pub
+### 1. [Beantown Pub](https://beantownpub.com/)
 
 ::::: {layout="[ 70, 30 ]"}
 ::: {#first-column}
@@ -25,11 +25,11 @@ output:
 :::
 
 ::: {#second-column}
-<center>![](images/beantown_sign-01.svg)</center>
+<center>[![](images/beantown_sign-01.svg)](https://beantownpub.com/)</center>
 :::
 :::::
 
-## 2. Sevens Ale House
+## 2. [Sevens Ale House](https://www.instagram.com/sevensboston/?hl=en)
 
 ::::: {layout="[ 70, 30 ]"}
 <div>
@@ -50,12 +50,12 @@ output:
 
 <div>
 
-<center>![](images/sevens_1-01.png)</center>
+<center>[![](images/sevens_1-01.png)](https://www.instagram.com/sevensboston/?hl=en)</center>
 
 </div>
 :::::
 
-## 3. 21st Amendment
+## 3. [21st Amendment](https://www.21staboston.com/)
 
 ::::: {layout="[ 70, 30 ]"}
 <div>
@@ -76,12 +76,12 @@ output:
 
 <div>
 
-<center>![](https://images.fineartamerica.com/images/artworkimages/medium/1/21st-amendment-boston-allen-beatty.jpg){width="313"}</center>
+<center>[![](https://images.fineartamerica.com/images/artworkimages/medium/1/21st-amendment-boston-allen-beatty.jpg){width="313"}](https://www.21staboston.com/)</center>
 
 </div>
 :::::
 
-## 4. Hub Pub
+## 4. [Hub Pub](https://thehubpub.com/)
 
 ::::: {layout="[ 70, 30 ]"}
 <div>
@@ -107,7 +107,7 @@ output:
 </div>
 :::::
 
-## 5. Mr. Dooley’s
+## 5. [Mr. Dooley’s](https://www.mrdooleys.com/)
 
 ::::: {layout="[ 70, 30 ]"}
 <div>
@@ -133,7 +133,7 @@ output:
 </div>
 :::::
 
-## 6. Boston Sail Loft
+## 6. [Boston Sail Loft](https://www.thebostonsailloft.com/)
 
 ::::: {layout="[ 70, 30 ]"}
 <div>
@@ -159,7 +159,7 @@ output:
 </div>
 :::::
 
-## 7. Black Rose
+## 7. [Black Rose](https://www.blackroseboston.com/)
 
 ::::: {layout="[ 70, 30 ]"}
 <div>
@@ -185,7 +185,7 @@ output:
 </div>
 :::::
 
-## 8. Durty Nelly’s
+## 8. [Durty Nelly’s](https://www.durtynellysboston.com/)
 
 ::::: {layout="[ 70, 30 ]"}
 <div>
@@ -209,7 +209,7 @@ output:
 </div>
 :::::
 
-## 9. The Dubliner
+## 9. [The Dubliner](https://www.thedublinerboston.com/)
 
 ::::: {layout="[ 70, 30 ]"}
 <div>
