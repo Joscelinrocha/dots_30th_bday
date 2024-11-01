@@ -1,0 +1,9 @@
+---
+title: "Dots' Map"
+---
+
+::: {.embed-container}
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1N5O2h7JLK9beRESNTz7IipAyrQ4_RYk&ehbc=2E312F" width="640" height="480"></iframe>
+
+:::
