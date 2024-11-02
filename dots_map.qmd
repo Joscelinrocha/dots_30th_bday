@@ -2,8 +2,10 @@
 title: "Dots' Map"
 ---
 
-::: {.embed-container}
+::: embed-container
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1m00ovcXEDeSartcj1zku7wftQnfP09I&amp;ehbc=2E312F&amp;noprof=1" width="640" height="480">
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1N5O2h7JLK9beRESNTz7IipAyrQ4_RYk&ehbc=2E312F" width="640" height="480"></iframe>
-
+</iframe>
 :::
+
+Open this map in your phone with [this link.](https://www.google.com/maps/d/u/0/edit?mid=1m00ovcXEDeSartcj1zku7wftQnfP09I&usp=sharing)
